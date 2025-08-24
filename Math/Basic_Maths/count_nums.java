@@ -1,6 +1,4 @@
-package Basic_Maths;
-
-public class count_digits {
+public class count_nums {
     public static void main(String args[]){
         int num = 12345;
         int count=0;
@@ -11,3 +9,4 @@ public class count_digits {
         System.out.println(count);
     }
 }
+
