@@ -1,4 +1,6 @@
-public class pattern_1 {
+package patterns;
+
+class pattern_1 {
 
         public static void main(String args[]) {
             int n = 4;

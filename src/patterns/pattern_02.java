@@ -1,6 +1,7 @@
-import java.sql.SQLSyntaxErrorException;
+package patterns;
+
 import java.util.*;
-public class pattern_2 {
+class pattern_2 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter num:");

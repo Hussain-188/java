@@ -1,4 +1,6 @@
-public class pattern_9 {
+package patterns;
+
+class pattern_9 {
     public static void main(String args[]){
         char start='a';
         int n=4;
