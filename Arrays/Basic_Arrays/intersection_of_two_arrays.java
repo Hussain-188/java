@@ -34,7 +34,7 @@ class Solution2 {
 
 class Main {
     public static void main(String[] args) {
-        int[] nums1 = {1, 2, 3, 3, 4, 5, 6, 7, 9};
+        int[] nums1 = {1, 2, 3, 3, 4, 5, 6, 7, 9, 10};
         int[] nums2 = {3, 3, 4, 4, 5, 8, 9};
 
         // Create an instance of the Solution class
