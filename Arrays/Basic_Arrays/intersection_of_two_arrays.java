@@ -32,7 +32,7 @@ class Solution2 {
     }
 }
 
-class Main {
+class Main1 {
     public static void main(String[] args) {
         int[] nums1 = {1, 2, 3, 3, 4, 5, 6, 7, 9, 10};
         int[] nums2 = {3, 3, 4, 4, 5, 8, 9};

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solutions {
     public int largestElement(int[] nums) {
         // Initialize max as the first element
         int max = nums[0];
@@ -23,7 +23,7 @@ class Solution {
         int[] nums = {3,2,1,5,2};
 
         // Create an instance of the Solution class
-        Solution sol = new Solution();
+        Solutions sol = new Solutions();
 
         // Find and print the largest element in the array
         System.out.println("The largest element in the array is: " + sol.largestElement(nums));
